@@ -27,6 +27,8 @@
 #### Agora esta variavel que esta dentro do script do arquivo do componente pode ser usado como propriedade do componente , quando for usar o componente na pagina princiap `App.svelte`
 #### 3. fazer o valor da variavel dentro do script aparecer no html . Basta somente colocar o nome da variável entre chaves dentro da tag html `variavel` . isso é o mesmo que interpolar variavel
 
+# Criando um componente composto
+### usar um componente menor (`Botao`) dentro de um componente maior(`Calculadora`)
 
 ###### 23 - 15' assisti 10' do tutorial
 ###### 24 - 30' pratiquei até 4'44" do tutorial

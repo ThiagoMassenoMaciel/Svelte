@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let texto
+  export let texto : string
 </script>
 
 <button class="botao">

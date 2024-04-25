@@ -1,33 +1,25 @@
 <script lang="ts">
-    import Botao from "./components/Botao.svelte";
-
-
+    import Calculadora from "./components/Calculadora.svelte";
 </script>
 
 <main>
-	<Botao texto = "8" />
-	<Botao texto = '9'/>
-	<Botao texto = '10'/>
+	<Calculadora/>
 </main>
 
 <style>
-	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
+	:global(body) {
+		background-color: black;
+	}
+	
+	:root{
+		--cor-fundo : #555
+	}
+	
+	main{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
 	}
 
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
-
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	}
 </style>
