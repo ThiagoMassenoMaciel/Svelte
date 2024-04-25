@@ -14,3 +14,7 @@
 
 # parei 4:44
 https://youtu.be/SVNTizLyuvo
+
+
+###### 23 - 15' assisti 10' do tutorial
+###### 24 - 30' pratiquei até 4'44" do tutorial
