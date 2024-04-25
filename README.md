@@ -11,7 +11,7 @@
 ### volte para pasta raiz do projeto e executa `npm i`
 ### dentro da pasta `node_modules/@tsconfig/svelte/ tsconfig.json`  copie a linha do target e cole dentro da pasta raiz do projeto dentro do campo buildOptions no tsconfig.json 
 ![alt text](./assents/image-2.png)
-
+### agora execute da pasta raiz do projeto `npm run dev`
 # parei 4:44
 https://youtu.be/SVNTizLyuvo
 
