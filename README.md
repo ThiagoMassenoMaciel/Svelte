@@ -29,10 +29,13 @@
 
 # Criando um componente composto
 ### usar um componente menor (`Botao`) dentro de um componente maior(`Calculadora`)
+### dentro do componente linha no seu html especificar que tera elementos filhos usando `<slot/>`
+
 
 ###### 23 - 15' assisti 10' do tutorial
 ###### 24 - 30' pratiquei até 4'44" do tutorial
 ###### 24 - 50' pratiquei até 11" do tutorial
+###### 25 - 50' assisti e pratiquei 10 do tutorial
 
 
 

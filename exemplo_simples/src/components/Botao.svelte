@@ -9,6 +9,7 @@
 <style>
   .botao{
 
+    flex-basis: 25%;
   }
 
 </style>
