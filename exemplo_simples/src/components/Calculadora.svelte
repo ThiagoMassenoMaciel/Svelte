@@ -23,6 +23,18 @@
     <Botao texto = "+"/>
   </Linha>
 
+  <Linha>
+    <Botao texto = "1"/>
+    <Botao texto = "2"/>
+    <Botao texto = "3"/>  
+    <Botao texto = "-"/>
+  </Linha>
+
+  <Linha>
+    <Botao duplo texto = "0"/>
+    <Botao texto = ","/>
+    <Botao texto = "="/>  
+  </Linha>
 </div>
 
 <style>
