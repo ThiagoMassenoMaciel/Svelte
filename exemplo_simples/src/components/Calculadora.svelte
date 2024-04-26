@@ -5,6 +5,11 @@
 
 <div class="calculadora">
   <Linha>
+    <Botao texto = "AC"/>
+    <Botao texto = "/"/>
+  </Linha>
+
+  <Linha>
     <Botao texto = "4"/>
     <Botao texto = "5"/>
     <Botao texto = "6"/>  
