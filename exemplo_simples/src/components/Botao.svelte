@@ -1,8 +1,9 @@
 <script lang="ts">
   export let texto : string
+  export let triplo : boolean = false
 </script>
 
-<button class="botao">
+<button class= {`botao ${triplo ? 'triplo': ''}`}>
   {texto}
 </button>
 
@@ -10,6 +11,10 @@
   .botao{
 
     flex-basis: 25%;
+  }
+
+  .triplo{
+    flex-basis: 75%;
   }
 
 </style>

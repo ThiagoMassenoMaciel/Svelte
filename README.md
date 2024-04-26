@@ -32,6 +32,10 @@
 ### dentro do componente linha no seu html especificar que tera elementos filhos usando `<slot/>` 
 ### Dentro do componente `Calculadora` estruturei assim três componente `linha` que vai agrupar componentes `Botao`
 ### Alguns botão quero que tenha o flex-basis diferente , o que eu devo fazer para atribuir propriedades de uma clase css  a um destes componentes `Botao` usando condicional ?
+#### usando  javaScript puro 
+![alt text](./assents/image3.png)
+#### colocando so o nome da propriedade do componente ja é entendido como true
+![alt text](./assents/image4.png)
 ### https://svelte.dev/docs/element-directives#class-name 
 
 ###### 23 - 15' assisti 10' do tutorial
