@@ -39,12 +39,15 @@
 ### usando svelte
 ![alt text](./assents/image5.png)
 ##### https://svelte.dev/docs/element-directives#class-name 
-
+#### 1. cria variavél no `script`
+#### 2. põe lógica condicional classe na div `html`
+#### 3. cria classe no `css`
 ###### 23 - 15' assisti 10' do tutorial
 ###### 24 - 30' pratiquei até 4'44" do tutorial
 ###### 24 - 50' pratiquei até 11" do tutorial
 ###### 25 - 50' assisti e pratiquei 10 do tutorial
 ###### 25 - 20' assisti 10' do tutorial
+###### 25 - 50' pratiquei 10' do tutorial assistido ontem
 
-# parei 20:00
+# parei 30:00
 https://youtu.be/SVNTizLyuvo
