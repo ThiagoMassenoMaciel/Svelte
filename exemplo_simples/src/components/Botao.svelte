@@ -3,7 +3,7 @@
   export let triplo : boolean = false
 </script>
 
-<button class= {`botao ${triplo ? 'triplo': ''}`}>
+<button class= "botao" class:triplo > <!--  class:triplo= {triplo} -->
   {texto}
 </button>
 
