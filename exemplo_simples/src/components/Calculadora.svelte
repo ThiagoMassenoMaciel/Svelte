@@ -5,7 +5,7 @@
 
 <div class="calculadora">
   <Linha>
-    <Botao triplo texto = "AC"/>
+    <Botao triplo texto = "AC"/> <!--   ou   triplo={true}-->
     <Botao texto = "/"/>
   </Linha>
 
