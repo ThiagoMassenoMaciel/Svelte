@@ -12,7 +12,7 @@
 	}
 	
 	:root{
-		--cor-fundo : #555
+		--cor-fundo : #555;
 	}
 	
 	main{

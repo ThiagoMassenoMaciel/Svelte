@@ -5,7 +5,7 @@
 </script>
 
 <div class="calculadora">
-  <Tela valor="34532442222222222212333333333333"/>
+  <Tela valor="00000001234567890"/>
   <Linha>
     <Botao destaque triplo texto = "AC"/> <!--   ou   triplo={true}-->
     <Botao operacao texto = "/"/>

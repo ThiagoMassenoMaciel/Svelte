@@ -43,6 +43,11 @@
 # Criando componente `Tela`
 ##### o css deste componente vai ter `flex : 1` isso é ocupar o máximo de espaço que conseguir
 ##### diminuir o tamanho da fonte quando numero do display for maior
+###### usar sintaxe do svelte `$:`[here](https://svelte.dev/docs/svelte-components#script-3-$-marks-a-statement-as-reactive) para mudar tamanho da fionte de acordo com tamanho do número
+
+###### #se o tamanho do numero for maior que o tamanho que cabe no display aplicar uma classe, como valor dentro da variavel condicional, que muda o tamanho da fonte
+###### #ajustar o tamanho da fonte de acordo com a quantidade de caracteres
+###### #de acordo com o valor passado para propriedade quando usado o componente estarei adicionando uma classe diferente para mudar tamanho da fonte
 
 #### 1. cria variavél no `script`
 #### 2. põe lógica condicional classe na div `html`
@@ -53,8 +58,7 @@
 ###### 25 - 50' assisti e pratiquei 10 do tutorial
 ###### 25 - 20' assisti 10' do tutorial
 ###### 26 - 50' pratiquei 10' do tutorial assistido ontem
+###### 28 - 1h35' assisti e pratiquei 14' do tutorial
 
-começei as 14h30 - 35'
-
-# parei 40:00
+# parei 44:00
 https://youtu.be/SVNTizLyuvo
