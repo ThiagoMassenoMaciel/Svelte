@@ -46,6 +46,8 @@
     width: 150px;
     padding: 10px;
 
+    border-radius: 10px;
+
     display: flex;
     flex-direction: column;
   }

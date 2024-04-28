@@ -47,7 +47,8 @@
 ###### 24 - 50' pratiquei até 11" do tutorial
 ###### 25 - 50' assisti e pratiquei 10 do tutorial
 ###### 25 - 20' assisti 10' do tutorial
-###### 25 - 50' pratiquei 10' do tutorial assistido ontem
+###### 26 - 50' pratiquei 10' do tutorial assistido ontem
+
 
 # parei 30:00
 https://youtu.be/SVNTizLyuvo
