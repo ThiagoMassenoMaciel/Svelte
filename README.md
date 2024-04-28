@@ -23,14 +23,14 @@
 ### e se eu quiser passar valores para o componente pela propriedade , como faço isso ?
 #### 1. cria a propriedade = criar uma variavel no pedaço script dentro do arquivo do componente
 #### Qual tipo de dado desta propriedade ? vai depender se for um dado imutável  ou dado mutável ( const , let )
-#### 2.                    = agora deixar a variavel visivel usando export  `export let variavel = ''`
-#### Agora esta variavel que esta dentro do script do arquivo do componente pode ser usado como propriedade do componente , quando for usar o componente na pagina princiap `App.svelte`
-#### 3. fazer o valor da variavel dentro do script aparecer no html . Basta somente colocar o nome da variável entre chaves dentro da tag html `variavel` . isso é o mesmo que interpolar variavel
+#### 2.                    = agora deixar a variavel visivel usando export  `export let variavel = ''` ou `export let variavel` neste é obrigado definir proriedade quando usar componente
+#### Agora esta variavel que esta dentro do script do arquivo do componente pode ser usado como propriedade do componente , quando for usar o componente na pagina principal  `App.svelte`
+#### 3. fazer o valor da variavel dentro do script aparecer no html . Basta somente colocar o nome da variável entre chaves dentro da tag html `{variavel}` . isso é o mesmo que interpolar variavel
 
 # Criando um componente composto
 ### usar um componente menor (`Botao`) dentro de um componente maior(`Calculadora`)
 ### dentro do componente linha no seu html especificar que tera elementos filhos usando `<slot/>` 
-### Dentro do componente `Calculadora` estruturei assim três componente `linha` que vai agrupar componentes `Botao`
+### Dentro do componente `Calculadora` estruturei assim três componente `linha` que cada um vai agrupar componentes `Botao`
 ### Alguns botão quero que tenha o flex-basis diferente , o que eu devo fazer para atribuir propriedades de uma clase css  a um destes componentes `Botao` usando condicional ?
 ### usando  javaScript puro 
 ![alt text](./assents/image3.png)
@@ -39,6 +39,11 @@
 ### usando svelte
 ![alt text](./assents/image5.png)
 ##### https://svelte.dev/docs/element-directives#class-name 
+
+# Criando componente `Tela`
+##### o css deste componente vai ter `flex : 1` isso é ocupar o máximo de espaço que conseguir
+##### diminuir o tamanho da fonte quando numero do display for maior
+
 #### 1. cria variavél no `script`
 #### 2. põe lógica condicional classe na div `html`
 #### 3. cria classe no `css`
@@ -49,6 +54,7 @@
 ###### 25 - 20' assisti 10' do tutorial
 ###### 26 - 50' pratiquei 10' do tutorial assistido ontem
 
+começei as 14h30 - 35'
 
-# parei 30:00
+# parei 40:00
 https://youtu.be/SVNTizLyuvo
